@@ -2,7 +2,6 @@
 
 # Magicodes.IE | [简体中文](README.zh-CN.md)
 [![nuget](https://img.shields.io/nuget/v/Magicodes.IE.Core.svg?style=flat-square)](https://www.nuget.org/packages/Magicodes.IE.Core) 
-[![Build Status](https://dev.azure.com/xinlaiopencode/Magicodes.IE/_apis/build/status/dotnetcore.Magicodes.IE?branchName=master)](https://dev.azure.com/xinlaiopencode/Magicodes.IE/_build/latest?definitionId=4&branchName=master)
 [![stats](https://img.shields.io/nuget/dt/Magicodes.IE.Core.svg?style=flat-square)](https://www.nuget.org/stats/packages/Magicodes.IE.Core?groupby=Version)
 
 ## Overview
@@ -213,9 +212,8 @@ Import and export general library, support Dto import and export, template expor
 
 - **Support multiple entities to export multiple Sheets**
 
-- **Support using some features under the System.ComponentModel.DataAnnotations namespace to control import and export** [#63](https://github.com/dotnetcore/Magicodes.IE/issues/63)
-
-- **Support the use of custom formatter in ASP.NET Core Web API to export content such as Excel, Pdf, Csv** [#64](https://github.com/dotnetcore/Magicodes.IE/issues/64 )
+- **Support using some features under the System.ComponentModel.DataAnnotations namespace to control import and export**
+- - **Support the use of custom formatter in ASP.NET Core Web API to export content such as Excel, Pdf, Csv** 
 
 - **Support export by column, sheet, and additional rows** 
 
@@ -244,44 +242,11 @@ The support for the built-in data validation can be turned on through the IsInte
 Support display operations for input prompts:
 ![](./res/dataval3.png "Excel验证")
 
-- **Excel import supports merging row data** [#239](https://github.com/dotnetcore/Magicodes.IE/issues/239)
 
- ![合并行导入文件](res/image-20210306105147319.png)
-
-### FAQ
-
-[Question List](https://github.com/dotnetcore/Magicodes.IE/issues?q=label%3Aquestion)
 
 ### **Update history**
 
 **[Update history](RELEASE.md)**
 
-## Contributors
 
-### Code Contributors
 
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/dotnetcore/Magicodes.IE/graphs/contributors"><img src="https://opencollective.com/magicodes/contributors.svg?width=890&button=false" /></a>
-
-### Financial Contributors
-
-Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/magicodes/contribute)]
-
-#### Individuals
-
-<a href="https://opencollective.com/magicodes"><img src="https://opencollective.com/magicodes/individuals.svg?width=890"></a>
-
-#### Organizations
-
-Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/magicodes/contribute)]
-
-<a href="https://opencollective.com/magicodes/organization/0/website"><img src="https://opencollective.com/magicodes/organization/0/avatar.svg"></a>
-<a href="https://opencollective.com/magicodes/organization/1/website"><img src="https://opencollective.com/magicodes/organization/1/avatar.svg"></a>
-<a href="https://opencollective.com/magicodes/organization/2/website"><img src="https://opencollective.com/magicodes/organization/2/avatar.svg"></a>
-<a href="https://opencollective.com/magicodes/organization/3/website"><img src="https://opencollective.com/magicodes/organization/3/avatar.svg"></a>
-<a href="https://opencollective.com/magicodes/organization/4/website"><img src="https://opencollective.com/magicodes/organization/4/avatar.svg"></a>
-<a href="https://opencollective.com/magicodes/organization/5/website"><img src="https://opencollective.com/magicodes/organization/5/avatar.svg"></a>
-<a href="https://opencollective.com/magicodes/organization/6/website"><img src="https://opencollective.com/magicodes/organization/6/avatar.svg"></a>
-<a href="https://opencollective.com/magicodes/organization/7/website"><img src="https://opencollective.com/magicodes/organization/7/avatar.svg"></a>
-<a href="https://opencollective.com/magicodes/organization/8/website"><img src="https://opencollective.com/magicodes/organization/8/avatar.svg"></a>
-<a href="https://opencollective.com/magicodes/organization/9/website"><img src="https://opencollective.com/magicodes/organization/9/avatar.svg"></a>
