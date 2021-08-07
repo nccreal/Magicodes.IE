@@ -229,9 +229,9 @@
 
 - **支持多个实体导出多个Sheet**
 
-- **支持使用System.ComponentModel.DataAnnotations命名空间下的部分特性来控制导入导出**  [#63](https://github.com/dotnetcore/Magicodes.IE/issues/63)
+- **支持使用System.ComponentModel.DataAnnotations命名空间下的部分特性来控制导入导出** 
 
-- **支持在ASP.NET Core Web API 中使用自定义格式化程序导出Excel、Pdf、Csv等内容** [#64](https://github.com/dotnetcore/Magicodes.IE/issues/64)
+- **支持在ASP.NET Core Web API 中使用自定义格式化程序导出Excel、Pdf、Csv等内容** 
 
 - **支持分栏、分sheet、追加rows导出**
 
@@ -256,80 +256,6 @@ public DateTime Time3 { get; set; }
 支持对输入提示的展示操作：
 ![](./res/dataval3.png "Excel验证")
 
-- **Excel导入支持合并行数据** [#239](https://github.com/dotnetcore/Magicodes.IE/issues/239)
+- **Excel导入支持合并行数据** 
 
   ![合并行导入文件](res/image-20210306105147319.png)
-
-## **联系我们**
-
-> ##### **订阅号**
-
-**关注“麦扣聊技术”订阅号可以获得最新文章、教程、文档，并且加入微信生态群：**
-
-<table>
-<tr>
-<td>
-<img align="left" src="./res/wechat.jpg" width="300"/>
-</td>
-<td>
-<img align="right" src="res/IE_WeChat.png" width="300"/>
-</td>
-</tr>
-</table>
-
-> ##### **QQ群**
-
-- **编程交流群<85318032>**（由于不经常在线，为了避免骚扰，设置了一定门槛）
-
-> ##### **文档官网&官方博客**
-
-- **文档官网：<https://docs.xin-lai.com/>**
-- **博客：<http://www.cnblogs.com/codelove/>**
-
-
-> ##### **其他开源库**
-
-- **<https://github.com/xin-lai>**
-- **<https://gitee.com/magicodes>**
-
-## 友情赞助
-
-### 服务内容
-
-<p><a href="https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.50111deb3qGSAw&ft=t&id=648720741666" target="_blank">点此打开小店</a></p>
-
-服务内容如下：
-- 技术支持
-- 使用培训
-- 二次开发支持
-- 需求定制
-- 赞助（Github展示）
-
-**具体收费根据需求评估，所有收入的30%~60%（视具体工作量评估）捐赠给Magicodes.IE项目开源管理委员会以促进项目长期维护和迭代发展。所有收支均全部公开。**
-
-### Code Contributors
-
-<a href="https://github.com/dotnetcore/Magicodes.IE/graphs/contributors"><img src="https://opencollective.com/magicodes/contributors.svg?width=890&button=false" /></a>
-
-### Financial Contributors
-
-Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/magicodes/contribute)]
-
-#### Individuals
-
-<a href="https://opencollective.com/magicodes"><img src="https://opencollective.com/magicodes/individuals.svg?width=890"></a>
-
-#### Organizations
-
-Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/magicodes/contribute)]
-
-<a href="https://opencollective.com/magicodes/organization/0/website"><img src="https://opencollective.com/magicodes/organization/0/avatar.svg"></a>
-<a href="https://opencollective.com/magicodes/organization/1/website"><img src="https://opencollective.com/magicodes/organization/1/avatar.svg"></a>
-<a href="https://opencollective.com/magicodes/organization/2/website"><img src="https://opencollective.com/magicodes/organization/2/avatar.svg"></a>
-<a href="https://opencollective.com/magicodes/organization/3/website"><img src="https://opencollective.com/magicodes/organization/3/avatar.svg"></a>
-<a href="https://opencollective.com/magicodes/organization/4/website"><img src="https://opencollective.com/magicodes/organization/4/avatar.svg"></a>
-<a href="https://opencollective.com/magicodes/organization/5/website"><img src="https://opencollective.com/magicodes/organization/5/avatar.svg"></a>
-<a href="https://opencollective.com/magicodes/organization/6/website"><img src="https://opencollective.com/magicodes/organization/6/avatar.svg"></a>
-<a href="https://opencollective.com/magicodes/organization/7/website"><img src="https://opencollective.com/magicodes/organization/7/avatar.svg"></a>
-<a href="https://opencollective.com/magicodes/organization/8/website"><img src="https://opencollective.com/magicodes/organization/8/avatar.svg"></a>
-<a href="https://opencollective.com/magicodes/organization/9/website"><img src="https://opencollective.com/magicodes/organization/9/avatar.svg"></a>
