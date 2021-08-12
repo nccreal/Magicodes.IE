@@ -1,4 +1,4 @@
-# Magicodes.IE | [简体中文](README.ZH-CN.md)
+# Magicodes.IE | [简体中文](README.zh-CN.md)
 [![nuget](https://img.shields.io/nuget/v/Magicodes.IE.Core.svg?style=flat-square)](https://www.nuget.org/packages/Magicodes.IE.Core) 
 [![stats](https://img.shields.io/nuget/dt/Magicodes.IE.Core.svg?style=flat-square)](https://www.nuget.org/stats/packages/Magicodes.IE.Core?groupby=Version)
 
