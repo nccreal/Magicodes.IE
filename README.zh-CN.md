@@ -11,10 +11,7 @@
 5. [注意事项](#注意事项)
 6. [教程](#教程)
 7. [特点](#特点)
-8. [FAQ](https://github.com/dotnetcore/Magicodes.IE/issues?q=label%3Aquestion)
-9. [联系我们](#联系我们)
-10. [更新历史](./RELEASE.md)
-11. [友情赞助](#友情赞助)
+
 
 ## 概述
 
